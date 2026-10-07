@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+
+ryu.log
+controller_log.csv
+icmp_rtt_log.csv
+controller_log_run*.csv
+icmp_rtt_log_run*.csv
+runs/
+
+.DS_Store
+
+icmp_rtt_log_old.csv
